@@ -1,6 +1,6 @@
-<!-- MySQL Commands -->
+<-- MySQL Commands -->
 
-<!-- Flow of database Database->Tables->Collections -->
+<-- Flow of database Database->Tables->Collections -->
 
                 show databases; 		        <!-- taki pure list of databse ko dekh sake -->
                 create database college;	    <!--  new database creation with name college  -->
@@ -9,8 +9,8 @@
                 drop database college; 	        <!--	Delete karne ke liye. -->
 
 
- <!-- SQL Queries for tables -->
-        <!-- DataTypes in SQL -  -->
+ <-- SQL Queries for tables -->
+        <-- DataTypes in SQL -  -->
 
              <!--   int - 	+ve,-ve and 0 value
                     Float -	decimal (5,2) matlab total 5 digit likhsakte hai aur 2 digit decimal ke baad hai eg. 456.22	
@@ -33,7 +33,7 @@
                     1. No. of attributes
                     2. datatypes and validation-->
 
-<!-- CODE FOR TABLE CREATIONS -->
+<-- CODE FOR TABLE CREATIONS -->
 
                     create Table student (
                     s_no INT NOT NULL   ,
